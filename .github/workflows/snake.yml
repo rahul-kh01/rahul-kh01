@@ -20,6 +20,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Debug: environment & branch
+        run: |
+          echo "GITHUB_REPOSITORY: $GITHUB_REPOSITORY"
+          echo "GITHUB_REF: $GITHUB_REF"
+          echo "Default branch (git):"
+          git rev-parse --abbrev-ref HEAD || true
+          echo "List workflows dir:"
+          ls -la .github/workflows || true
+
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -33,6 +42,17 @@ jobs:
             ls -la dist
           else
             echo "dist directory not found"
+            exit 1
+          fi
+
+      - name: Debug: show generated snake head of file (if exists)
+        run: |
+          if [ -f dist/snake.svg ]; then
+            echo "dist/snake.svg exists — printing first 20 lines:"
+            head -n 20 dist/snake.svg || true
+          else
+            echo "dist/snake.svg not found"
+            exit 1
           fi
 
       - name: Publish dist to output branch
