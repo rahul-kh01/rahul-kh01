@@ -1,3 +1,7 @@
+# hi, i'm rahul-kh01
+
+Welcome to my GitHub profile/repo. I work on various projects and enjoy building things with code.
+
 <h2 align="left">Hi 👋 I am rahul-kh01, Software Developer</h2>
 
 ###
@@ -7,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-kh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="right" height="150" src="https://i.ibb.co/MkdQ0bj/hacker-19jj.jpg"  />
 </div>
-
-###
-
 
 ###
 
@@ -52,6 +53,9 @@
  ######
  
 <div align="left">
+  <a href="https://rahul-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="portfolio badge"  />
+  </a>
   <a href="https://leetcode.com/rahul-kh01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FD9020&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode badge"  />
   </a>
@@ -76,3 +80,12 @@
 <img src="https://raw.githubusercontent.com/rahul-kh01/rahul-kh01/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## Reach me / Contact
+
+- Portfolio: https://rahul-liard.vercel.app/ — My personal portfolio site (best place to reach me)
+- GitHub: https://github.com/rahul-kh01
+
+## About this repo
+
+This repository contains my profile projects and links. Browse the repository to see my work and learn more about what I'm building.
