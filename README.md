@@ -1,4 +1,4 @@
-# Hi, I’m Rahul Kumar 👋
+# Hi, I’m Rahul Khandelwal 👋
 
 📍 **India** | 💻 **Software Developer** | 🚀 **Building and sharing CS interview resources**
 
