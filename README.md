@@ -1,91 +1,48 @@
-# hi, i'm rahul-kh01
+# Hi, I’m Rahul Kumar 👋
 
-Welcome to my GitHub profile/repo. I work on various projects and enjoy building things with code.
+📍 **India** | 💻 **Software Developer** | 🚀 **Building and sharing CS interview resources**
 
-<h2 align="left">Hi 👋 I am rahul-kh01, Software Developer</h2>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-###
+> Focused on building useful projects, strengthening fundamentals, and helping others prepare for software engineering interviews.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rahul-kh01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-kh01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://i.ibb.co/MkdQ0bj/hacker-19jj.jpg"  />
-</div>
+## Current Focus
 
-###
+- Building practical full-stack projects and improving developer workflows
+- Creating one-shot CS resources for interview prep
+- Solving DSA and system design problems consistently
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+## Featured Interview Playbooks
 
- ######
- 
-<div align="left">
-  <a href="https://rahul-liard.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="portfolio badge"  />
-  </a>
-  <a href="https://leetcode.com/rahul-kh01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FD9020&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode badge"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-kh01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/your-telegram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+- 🧠 [**Operating Systems (1Shot-OS)**](https://github.com/rahul-kh01/1Shot-OS)
+- 🧩 [**Object-Oriented Programming (1Shot-OOPS)**](https://github.com/rahul-kh01/1Shot-OOPS)
+- 🌐 [**Computer Networks (1Shot-CN)**](https://github.com/rahul-kh01/1Shot-CN)
+- 🗄️ [**SQL (1Shot-SQL)**](https://github.com/rahul-kh01/1Shot-SQL)
+- ➕ More resources and projects on my GitHub profile: [**rahul-kh01**](https://github.com/rahul-kh01)
 
-###
+## GitHub Activity
 
-<br clear="both">
+![GitHub Contribution Graph](https://ghchart.rshah.org/rahul-kh01)
 
-<img src="https://raw.githubusercontent.com/rahul-kh01/rahul-kh01/output/snake.svg" alt="Snake animation" />
+## Connect
 
-###
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahul-kh01)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kh01/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rahul-liard.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/rahul-kh01/)
 
-## Reach me / Contact
+---
 
-- Portfolio: https://rahul-liard.vercel.app/ — My personal portfolio site (best place to reach me)
-- GitHub: https://github.com/rahul-kh01
+### Philosophy
 
-## About this repo
-
-This repository contains my profile projects and links. Browse the repository to see my work and learn more about what I'm building.
+> "Small improvements every day."  
+> Learn deeply, build consistently, and share openly.
